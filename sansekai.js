@@ -87,7 +87,7 @@ Cmd: ${prefix}sc
 Menampilkan source code bot yang dipakai
 *(YTTA)*
 Cmd: ${prefix}mintul
-     ${Prefix}trimbel
+     ${prefix}trimbel
      ${prefix}okek
 HMMMMMMMMMMMMMMM`)
           break;
