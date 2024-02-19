@@ -84,7 +84,15 @@ Membuat gambar dari teks
 
 *(Source Code Bot)*
 Cmd: ${prefix}sc
-Menampilkan source code bot yang dipakai`)
+Menampilkan source code bot yang dipakai
+*(YTTA)*
+Cmd: ${prefix}mintul
+     ${Prefix}trimbel
+     ${prefix}okek
+HMMMMMMMMMMMMMMM`)
+          break;
+        case "mintul": case "trimbel": case "okek":
+          m.reply("GGGGGGGAAAAAAAYYYYYYYYY!!!!!!!!!")
           break;
         case "ai": case "openai": case "chatgpt": case "ask":
           try {
